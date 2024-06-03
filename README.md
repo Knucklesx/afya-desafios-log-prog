@@ -35,6 +35,9 @@ Bem-vindo ao repositório de desafios de lógica de programação! Este reposit�
    git push origin desafio-logica-afya-[nome-do-grupo]
    ```
 
+   sob hipótese alguma os alunos deverão fazer merge dos seus pushs, sob pena de 
+   inviabilizar o presente repositório para os demais.
+
 5. **Restrições:**
    - Os alunos não devem utilizar ChatGPT ou quaisquer outras IAs para resolver os problemas.
    - O uso de código externo que não seja desenvolvido pelo grupo é proibido.
