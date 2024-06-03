@@ -1,4 +1,4 @@
-Aqui está um exemplo de README para o repositório do GitHub com as instruções detalhadas e os desafios listados:
+Claro, vamos adicionar uma seção ao README explicando como rodar os testes usando `npm test`. Aqui está o README atualizado:
 
 ---
 
@@ -38,6 +38,26 @@ Bem-vindo ao repositório de desafios de lógica de programação! Este reposit�
 5. **Restrições:**
    - Os alunos não devem utilizar ChatGPT ou quaisquer outras IAs para resolver os problemas.
    - O uso de código externo que não seja desenvolvido pelo grupo é proibido.
+
+## Executando os Testes
+
+Para garantir que suas soluções estão corretas, você pode rodar os testes unitários usando o Jest. Siga os passos abaixo para executar os testes:
+
+1. **Instalar dependências:**
+   Certifique-se de ter o Jest instalado. Caso não tenha, instale as dependências do projeto, incluindo o Jest, utilizando o npm:
+
+   ```bash
+   npm install
+   ```
+
+2. **Rodar os testes:**
+   Após instalar as dependências, você pode rodar todos os testes com o comando:
+
+   ```bash
+   npm test
+   ```
+
+   Este comando executará todos os testes localizados na pasta `__tests__` e verificará se as funções dos desafios estão funcionando corretamente.
 
 ## Lista de Desafios
 
@@ -170,3 +190,5 @@ console.log(groupBy(data, 'age'));
 ---
 
 Boa sorte com os desafios!
+
+---
