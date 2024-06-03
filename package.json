@@ -1,0 +1,15 @@
+{
+	"name": "afya-desafios-log-prog",
+	"version": "1.0.0",
+	"description": "Aqui está um exemplo de README para o repositório do GitHub com as instruções detalhadas e os desafios listados:",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^29.7.0"
+	}
+}
