@@ -1,4 +1,4 @@
-const { reverseArray } = require("../desafio-1");
+import { reverseArray } from "../desafio-1";
 
 test("inverts the elements of an array", () => {
 	expect(reverseArray([1, 2, 3, 4, 5])).toEqual([5, 4, 3, 2, 1]);
