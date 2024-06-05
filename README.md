@@ -4,7 +4,7 @@ Bem-vindo ao repositório de desafios de lógica de programação! Este reposit�
 
 ## Instruções para Realização dos Desafios
 
-1. **Clonar o repositório:**
+1. **Faça FORK do repositório:**
    Para começar, você deve clonar este repositório em sua máquina local. Abra o terminal e execute o seguinte comando:
 
    ```bash
