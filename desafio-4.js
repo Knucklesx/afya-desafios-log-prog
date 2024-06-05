@@ -6,4 +6,6 @@ const numArray = [1, 2, 3, 4, 5];
 //Use a seguinte função para sua resposta
 function doubleValues() {}
 
+doubleValues();
+
 module.exports = { doubleValues };

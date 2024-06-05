@@ -1,7 +1,3 @@
-Claro, vamos adicionar uma seção ao README explicando como rodar os testes usando `npm test`. Aqui está o README atualizado:
-
----
-
 # Desafios de Lógica de Programação
 
 Bem-vindo ao repositório de desafios de lógica de programação! Este repositório contém uma série de 10 desafios projetados para testar suas habilidades em JavaScript. 

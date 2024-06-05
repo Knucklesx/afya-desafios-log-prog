@@ -6,4 +6,5 @@ const numArray = [[1, 2, 2, 3, 4, 2], 2];
 //Use a seguinte função para sua resposta
 function countCurr() {}
 
+countCurr();
 module.exports = { countCurr };

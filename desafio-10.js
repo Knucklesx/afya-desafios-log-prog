@@ -6,4 +6,5 @@ const numArray = [1, 2, 2, 3, 4, 4, 5];
 //Use a seguinte função para sua resposta
 function removeDup() {}
 
+removeDup();
 module.exports = { removeDup };

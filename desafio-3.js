@@ -5,4 +5,5 @@ const numArray = [1, 2, 3, 4, 5];
 //Use a seguinte função para sua resposta
 function addElement() {}
 
+addElement();
 module.exports = { addElement };
